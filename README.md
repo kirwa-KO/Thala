@@ -14,4 +14,4 @@ Thala tester made by Kirwa for 1337 students
 
 7-> and "thala"
 
-thank you for your clone
+Thank you for your clone
