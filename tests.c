@@ -2161,4 +2161,4 @@ print_test("*.*%"); print_ret(PRINTF_MACRO("Bla bla %*.*%", -15, 0));
 print_test("*.*%"); print_ret(PRINTF_MACRO("Bla bla %*.*%", -15, 3));
 print_test("*.*%"); print_ret(PRINTF_MACRO("Bla bla %*.*%", -15, 10));
 print_test("*.*%"); print_ret(PRINTF_MACRO("Bla bla %*.*%", -15, -15));
-print_test("-*.3d); print_ret(PRINTF_MACRO("-*.3d", -5, -89));
+print_test("-*.3d"); print_ret(PRINTF_MACRO("-*.3d", -5, -89));
