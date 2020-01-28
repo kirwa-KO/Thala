@@ -1,4 +1,4 @@
-Thala tester made by Kirwa for 1337 students
+# Thala tester made by Kirwa for 1337 students
 ```
 1-> clone the rep
 ```
@@ -22,4 +22,4 @@ Thala tester made by Kirwa for 1337 students
 7-> and "thala"
 ```
 
-Thank you for your clone
+# Thank you for your clone
