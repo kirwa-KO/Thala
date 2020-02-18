@@ -9,7 +9,7 @@
 
 3-> make
 ```
-4->[diff Check](https://codebeautify.org/file-diff) wibesite
+4-> [diff Check to ckech differnce](https://codebeautify.org/file-diff)
 ```
 5-> put the SYSOUT and USEROUT
 ```
