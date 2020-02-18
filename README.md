@@ -10,7 +10,7 @@
 3-> make
 ```
 ```
-4-> go to *[diff Check](https://codebeautify.org/file-diff) wibesite
+*[diff Check](https://codebeautify.org/file-diff) wibesite
 ```
 ```
 5-> put the SYSOUT and USEROUT
