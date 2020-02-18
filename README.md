@@ -9,7 +9,7 @@
 
 3-> make
 ```
-4-> [diff Check to ckech differnce](https://codebeautify.org/file-diff)
+4-> [click here to check difference](https://codebeautify.org/file-diff)
 ```
 5-> put the SYSOUT and USEROUT
 ```
